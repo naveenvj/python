@@ -1,0 +1,22 @@
+{
+    "1": {
+        "command": "free -m",
+        "description": "Memory Usage Information."
+    },
+    "2": {
+        "command": "df -h",
+        "description": "Disk Usage Information."
+    },
+    "3": {
+        "command": "netstat -ntlp",
+        "description": "Socket Information."
+    },
+    "4": {
+        "command": "uptime",
+        "description": "Uptime Information."
+    },
+    "5": {
+        "description": "Quit."
+    }
+}
+
