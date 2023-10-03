@@ -10,6 +10,7 @@ pipeline  {
     stage("test") {
       steps {
         echo 'testing the application...please wait'
+        echo 'testing the application is completed'
       }
     }
     
